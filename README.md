@@ -1,4 +1,4 @@
-# ⚔️ NEXUS-SHADOW v3.5 (Elite Edition) 🛡️
+# ⚔️ NEXUS-SHADOW v3.5 (Tushar Patil Edition) 🛡️
 
 **NEXUS-SHADOW** is an advanced **Offensive Security Framework** developed by **Tushar Patil**. 
 This tool is designed for automated reconnaissance and security auditing, bridging the gap 
@@ -11,7 +11,7 @@ between asset discovery and vulnerability analysis.
 - 💀 **KHALNAYAK Recon Engine** Automates target IP discovery and infrastructure mapping via DNS resolution.
 
 - ⚡ **SHADOW-STRIKE Attack Simulator** Simulates real-world attack scenarios by auditing sensitive paths
--  like `.env`, `.git`, and `admin` panels.
+       like `.env`, `.git`, and `admin` panels.
 
 - 🔍 **Security Header Audit** Analyzes server response headers for critical missing protections (CSP, X-Frame-Options, etc.).
 
@@ -42,24 +42,32 @@ between asset discovery and vulnerability analysis.
 
 ```python Nexus-Shadow.py```
 
+---
 
 ### 📊 Technical Specifications
 
-Language: Python 3
+  Language: Python 3
+  
+  Architecture: Modular Engine Design (Recon + Simulation)
+  
+  Networking: Multi-threaded HTTP Request Handling
+  
+  Portability: Fully compatible with Linux (Kali/Ubuntu), Windows, and Android (Termux).
 
-Architecture: Modular Engine Design (Recon + Simulation)
-
-Networking: Multi-threaded HTTP Request Handling
-
-Portability: Fully compatible with Linux (Kali/Ubuntu), Windows, and Android (Termux).
-
+---
 
 ### 👤 Author
 
-Tushar Patil Offensive Security Researcher & Ethical Hacking Tool Developer 
+  Tushar Patil Offensive Security Researcher & Ethical Hacking Tool Developer 
+
+---
 
 ### ⚠️ Disclaimer
+  
+  This tool is developed strictly for educational and ethical security testing purposes.
+  Do NOT use this tool on any target without explicit prior authorization.
+  The author is not responsible for any misuse or legal consequences.
 
-This tool is developed strictly for educational and ethical security testing purposes.
-Do NOT use this tool on any target without explicit prior authorization.
-The author is not responsible for any misuse or legal consequences.
+  ---
+
+  ### Screenshots
