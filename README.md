@@ -38,6 +38,7 @@ between asset discovery and vulnerability analysis.
 ```# Navigate to the tool directory```
 
 ```cd  NEXUS-SHADOW-v3.5```
+```cd  "NEXUS-SHADOW v3.5"```
 
 
 ```# Run the tool```
@@ -73,3 +74,4 @@ between asset discovery and vulnerability analysis.
   ---
 
   ### Screenshots
+<img width="1036" height="857" alt="image" src="https://github.com/user-attachments/assets/db80c226-01b2-46e4-a64a-dcba120702db" />
