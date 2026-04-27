@@ -1,58 +1,56 @@
-⚔️ NEXUS-SHADOW v3.5 (Tushar Patil Edition) 🛡️
+# ⚔️ NEXUS-SHADOW v3.5 (Elite Edition) 🛡️
 
-NEXUS-SHADOW is a powerful Python-based offensive security framework designed for automated reconnaissance and
-vulnerability analysis. It bridges the gap between infrastructure discovery and security auditing.
+**NEXUS-SHADOW** is an advanced **Offensive Security Framework** developed by **Tushar Patil**. 
+This tool is designed for automated reconnaissance and security auditing, bridging the gap 
+between asset discovery and vulnerability analysis.
 
+---
 
-🚀 Features
+## 🚀 Features
 
-💀 KHALNAYAK Recon Engine Resolves domain names to IP addresses and maps infrastructure details instantly.
+- 💀 **KHALNAYAK Recon Engine** Automates target IP discovery and infrastructure mapping via DNS resolution.
 
-⚡ SHADOW-STRIKE Attack Simulator Automates the detection of sensitive files like .env, .git, and /admin/ directories.
+- ⚡ **SHADOW-STRIKE Attack Simulator** Simulates real-world attack scenarios by auditing sensitive paths like `.env`, `.git`, and `admin` panels.
 
-🔍 Security Header Audit Analyzes server response headers for missing security protections like CSP and HSTS.
+- 🔍 **Security Header Audit** Analyzes server response headers for critical missing protections (CSP, X-Frame-Options, etc.).
 
-🚥 Intelligent Risk Assessment Automatically categorizes vulnerabilities into CRITICAL, HIGH, and MEDIUM risk levels.
+- 🚥 **Intelligent Risk Grading** Automatically categorizes vulnerabilities into **CRITICAL, HIGH, and MEDIUM** risk levels.
 
-🛠️ Installation & Usage
+- 🎨 **Cyberpunk Terminal UI** Features a professional, color-coded interface with real-time progress animations.
 
-1️⃣ Requirements
+---
 
-Python 3.x
+## 🛠️ Installation & Usage
 
-requests library
+### 1️⃣ Requirements
+- Python 3.x
+- `requests` library
+- `pip install requests`
 
-pip install requests
+### 2️⃣ Setup (Termux or PC)
 
+```# Clone the repository```
+```git clone [https://github.com/tusharpatil41/NEXUS-SHADOW-v3.5.git](https://github.com/tusharpatil41/NEXUS-SHADOW-v3.5.git)```
 
-2️⃣ Setup & Execution
+```# Navigate to the tool directory```
+```cd NEXUS-SHADOW v3.5```
 
-# Clone the repository
-git clone [https://github.com/tusharpatil41/NEXUS-SHADOW-v3.5.git](https://github.com/tusharpatil41/NEXUS-SHADOW-v3.5.git)
-
-# Navigate to the tool directory
-cd NEXUS-SHADOW-v3.5
-
-# Run the tool
-python shadow_strike_pro.py
-
+```# Run the tool```
+```python Nexus-Shadow.py```
 
 📊 Technical Specifications
-
 Language: Python 3
-
-Dependencies: requests, socket, datetime
 
 Architecture: Modular Engine Design (Recon + Simulation)
 
-Compatibility: Windows, Linux, and Termux (Android)
+Networking: Multi-threaded HTTP Request Handling
+
+Portability: Fully compatible with Linux (Kali/Ubuntu), Windows, and Android (Termux).
 
 👤 Author
-
 Tushar Patil Offensive Security Researcher & Ethical Hacking Tool Developer Hi-Tech Institute of Technology, Chhatrapati Sambhaji Nagar
 
 ⚠️ Disclaimer
-
-This tool is developed strictly for educational and ethical security testing purposes. Do NOT use this tool on any target without explicit prior authorization. The author is not responsible for any misuse or legal consequences.
-
-📸 Screenshot
+This tool is developed strictly for educational and ethical security testing purposes.
+Do NOT use this tool on any target without explicit prior authorization.
+The author is not responsible for any misuse or legal consequences.
