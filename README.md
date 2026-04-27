@@ -10,7 +10,8 @@ between asset discovery and vulnerability analysis.
 
 - 💀 **KHALNAYAK Recon Engine** Automates target IP discovery and infrastructure mapping via DNS resolution.
 
-- ⚡ **SHADOW-STRIKE Attack Simulator** Simulates real-world attack scenarios by auditing sensitive paths like `.env`, `.git`, and `admin` panels.
+- ⚡ **SHADOW-STRIKE Attack Simulator** Simulates real-world attack scenarios by auditing sensitive paths
+-  like `.env`, `.git`, and `admin` panels.
 
 - 🔍 **Security Header Audit** Analyzes server response headers for critical missing protections (CSP, X-Frame-Options, etc.).
 
@@ -30,15 +31,20 @@ between asset discovery and vulnerability analysis.
 ### 2️⃣ Setup (Termux or PC)
 
 ```# Clone the repository```
+
 ```git clone [https://github.com/tusharpatil41/NEXUS-SHADOW-v3.5.git](https://github.com/tusharpatil41/NEXUS-SHADOW-v3.5.git)```
 
 ```# Navigate to the tool directory```
+
 ```cd NEXUS-SHADOW v3.5```
 
 ```# Run the tool```
+
 ```python Nexus-Shadow.py```
 
-📊 Technical Specifications
+
+### 📊 Technical Specifications
+
 Language: Python 3
 
 Architecture: Modular Engine Design (Recon + Simulation)
@@ -47,10 +53,13 @@ Networking: Multi-threaded HTTP Request Handling
 
 Portability: Fully compatible with Linux (Kali/Ubuntu), Windows, and Android (Termux).
 
-👤 Author
-Tushar Patil Offensive Security Researcher & Ethical Hacking Tool Developer Hi-Tech Institute of Technology, Chhatrapati Sambhaji Nagar
 
-⚠️ Disclaimer
+### 👤 Author
+
+Tushar Patil Offensive Security Researcher & Ethical Hacking Tool Developer 
+
+### ⚠️ Disclaimer
+
 This tool is developed strictly for educational and ethical security testing purposes.
 Do NOT use this tool on any target without explicit prior authorization.
 The author is not responsible for any misuse or legal consequences.
