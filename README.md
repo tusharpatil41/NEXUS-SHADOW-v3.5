@@ -32,19 +32,19 @@ between asset discovery and vulnerability analysis.
 
 ```# Clone the repository```
 
-    ```git clone https://github.com/tusharpatil41/NEXUS-SHADOW-v3.5.git```
+```git clone https://github.com/tusharpatil41/NEXUS-SHADOW-v3.5.git```
 
 
 ```# Navigate to the tool directory```
 
-    ```cd  NEXUS-SHADOW-v3.5```
+```cd  NEXUS-SHADOW-v3.5```
     
-    ```cd  "NEXUS-SHADOW v3.5"```
+```cd  "NEXUS-SHADOW v3.5"```
 
 
 ```# Run the tool```
 
-    ```python Nexus-Shadow.py```
+```python Nexus-Shadow.py```
 
 ---
 
